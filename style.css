@@ -405,12 +405,12 @@
     /*********************/
     /*********phone small**ADD*********/
 
- @media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
 
    .col-sm-4 {
      text-align: center;
      /*margin: 25px 0;/*original*/
-     width: 80%;
+    /* width: 80%;
      margin: 20px;
      margin-left: 0px;
      margin-right: 3px;
@@ -431,7 +431,7 @@
    }
 
 
- }
+ }*/
 
     /****Contact***button********/
     #social-icon-p {
