@@ -184,6 +184,11 @@
       margin-right: 8px;
       
     }
+     input .form-control {
+      width: 200%;
+      margin-right: 3px;
+    
+    }
      
 
     /******************   LOCATIONS ******** BOX-3 *****************/
