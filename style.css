@@ -410,30 +410,6 @@
     }
 
     /*********************/
-   @media screen and (max-width: 1223px) {
-  
-      .col-sm-4 {
-      text-align: center;
-     /* margin: 25px 0;/*original*/
-      width: 90%;
-      margin: 25px;
-      margin-left: 4px;
-
-
-   }
-    .col-sm-3 {
-     width: 75%;
-     margin: 25px 5%;
-     text-align: center;
-
-   }
-    .form-control {
-     margin: 0 30px;
-     padding: 30px 30px;
-
-
-   }
- }
    
 
 
