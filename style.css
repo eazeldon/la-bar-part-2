@@ -408,6 +408,9 @@
         .col-sm-5 {
         width: 300px;
    }
+        #name{
+         width: 200px;
+     }
         
      
     }
