@@ -399,12 +399,15 @@
 
    }
         .form-control {
-         margin: 0 30px;
-         padding: 30px 20px;
+         margin: 0 10px;
+         padding: 30px 10px;
   }
-        .center-text-image {
+       /* .center-text-image {
          padding: 120px;
-    }
+    }*/
+        .col-sm-5 {
+        width: 300px;
+   }
         
      
     }
