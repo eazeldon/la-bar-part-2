@@ -112,6 +112,11 @@
     }
 
     .image {
+     margin-top: 10px;
+     margin-right: 40px;
+     /*back border padding*/
+     padding: 10px;
+      margin-left: 10px;
       height: 255px;
       width: 220px;
       /*add image effects*/
