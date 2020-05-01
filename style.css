@@ -410,8 +410,9 @@
        /* .center-text-image {
          padding: 120px;
     }*/
-        .col-sm-5 {
-        width: 0px;
+       div .col-sm-5 .form-control {
+        float: left;
+       
    }
         #name{
          width: 200px;
