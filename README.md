@@ -80,9 +80,7 @@ browsers Google Chrome and Safari, iPad mini4 with iOS ver. 12.4 using the Safar
 
 ### Deployment
 
-
-
-
+I use Github to deploy my project using the following. Step 1: I created a new remote to Github, Step 2: In my environment  I use this command " git status" or "git ls" to check my preject. Step 3: I use this command ”git commit -m”Finished my project la bar part-2”.step 4: I use "git add ." command. step 5: I use this command "git push" origin master. step :6 I open my Github to check if all my codes are there.
 
 ### acknowledgement
 
