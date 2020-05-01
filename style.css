@@ -401,9 +401,11 @@
         .form-control {
          margin: 0 30px;
          padding: 30px 20px;
-
-
-   }
+  }
+        .center-text-image {
+         padding: 120px;
+    }
+        
      
     }
 
