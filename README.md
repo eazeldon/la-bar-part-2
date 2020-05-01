@@ -69,7 +69,7 @@ From Code Institute,
 
 ### Techniques
 
-I have used html code, style.css, bootstrapt and javascript.
+I have used html code, style.css, bootstrap and javascript.
 
 All images are edited in photoshop
  
@@ -86,4 +86,4 @@ browsers Google Chrome and Safari, iPad mini4 with iOS ver. 12.4 using the Safar
 
 ### acknowledgement
 
-I use google map Ip and some and bootstrapt templates 
+I use google map Ip and some and bootstrap templates 
