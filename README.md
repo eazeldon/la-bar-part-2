@@ -91,4 +91,4 @@ I use GitHub to deploy my project using the following. Step 1: I created a new r
 
 ### acknowledgement
 
-I use google map Ip and some and bootstrap templates 
+I use google map API and some bootstrap templates. 
