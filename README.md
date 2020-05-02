@@ -33,6 +33,11 @@ that can distract the visitor from finding and using menu as well as finding the
 
 Is in place to give easy access to the main pages of the site.
 
+### "Top" link in footer
+
+The footer contains a link named "Top" to ensure the visitor can with one simple step get back to the beginning of
+the page instead having to scroll back to the top.
+
 ### About
 
 About is a simple story of how the founders created this restaurant and bar.  
@@ -48,13 +53,13 @@ enable the visitors to have a better understand, of what they can order.
  
 ### Events
 
-Events is a commercial for up comming parties and product lunchings
+Events is a commercial for upcoming parties and product launchings
 
 ### Locations
 
 Designed to help visitors find the address of the locations 
 
-### Party Imagies
+### Party Images
 
 Designed to show case the events and parties from different years and their sponsors.
 
@@ -62,14 +67,16 @@ Designed to show case the events and parties from different years and their spon
 ### Map from google
 
 Designed to show where in the world the facilities are located.
+The locations are marked with a beach flag. When you click the beach flag there is a pop-up that displays a picture of the location
+and the address.
 
-### Code insperation
+### Code inspiration
 
 From Code Institute, 
 
 ### Techniques
 
-I have used html code, style.css, bootstrap and javascript.
+I have used html code, style.css, bootstrap and JavaScript.
 
 All images are edited in photoshop
  
@@ -80,7 +87,7 @@ browsers Google Chrome and Safari, iPad mini4 with iOS ver. 12.4 using the Safar
 
 ### Deployment
 
-I use Github to deploy my project using the following. Step 1: I created a new remote to Github, Step 2: In my environment  I use this command " git status" or "git ls" to check my preject. Step 3: I use this command ”git commit -m”Finished my project la bar part-2”.step 4: I use "git add ." command. step 5: I use this command "git push" origin master. step :6 I open my Github to check if all my codes are there.
+I use GitHub to deploy my project using the following. Step 1: I created a new remote to GitHub, Step 2: In my environment  I use this command " git status" or "git ls" to check my project. Step 3: I use this command ”git commit -m”Finished my project la bar part-2”.step 4: I use "git add ." command. step 5: I use this command "git push" origin master. step :6 I open my GitHub to check if all my codes are there.
 
 ### acknowledgement
 
