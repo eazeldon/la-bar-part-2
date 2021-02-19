@@ -71,7 +71,71 @@
 
   <!-- Container (About Section) -->
   <div id="about" class="container-fluid box-1  text-center">
-    <h2>About</h2>
+    <h2>About the site</h2>
+    <!--------pop----------------------->
+    <!-- Trigger/Open The Modal -->
+    <button id="myBtn" class="read-more">READ MORE</button>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+      <!-- Modal content -->
+      <div class="modal-content">
+        <div class="modal-header">
+          <span class="close">&times;</span>
+          <h4>My Demo site</h4>
+        </div>
+        <div class="modal-body">
+
+
+
+          <p class="p-1">
+             <blod>User Stroy</blod>
+          </p>
+          <p class="p-1">
+            As a site owner, I want to showcase and market my business, so that potential visitors get an idea of what
+            they can expect from a visit to my bar and restaurant.
+
+            As a potential visitor, I want to see pictures of the bar and the restaurant and information on what is
+            offered, to help me decide if I want to go.
+
+            As a sponsor of events, I want my events to be shown and remembered, so that future events will attract
+            visitors.
+
+
+
+          </p>
+           <p class="p-1">
+            <blod>Concept</blod>
+          </p>
+
+          <p class="p-1">This project is a calling card app for the La Bar restaurant and bar.</p>
+
+          <p class="p-1">
+            <blod>Code Used</blod>
+          </p>
+
+          <p class="p-1">HTML, CSS, JAVASCRIPTS</p>
+
+          <p class="p-1">
+            <blod>Acknowledgement</blod>
+          </p>
+
+          <p class="p-1">I used google API map, images from old travel, bootstrap, and all pictures edited in photoshop
+            by Eazel Don Frantzich </p>
+
+        </div>
+        <div class="modal-footer">
+          <p class="p-2">
+            <blod>Thank you for time</blod>
+          </p>
+
+
+        </div>
+      </div>
+    </div>
+
+    
+    <!-------end-----pop--------------->
 
 
     <h3>La Bar and La Bar avenue</h3>
@@ -560,6 +624,40 @@
 
 
   </footer>
+<!-------------------->
+<!---------pop-->
+
+  <script>
+    // Get the modal
+    var modal = document.getElementById("myModal");
+
+    // Get the button that opens the modal
+    var btn = document.getElementById("myBtn");
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When the user clicks the button, open the modal 
+    btn.onclick = function () {
+      modal.style.display = "block";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function () {
+      modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+
+  </script>
+  <!-----end----pop-->
+<!-------------------->
+
 
   <script>
     $(document).ready(function() {
