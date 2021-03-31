@@ -1,4 +1,4 @@
-# La bar porject 
+# La bar project 
  https://eazeldon.github.io/la-bar-part-2/
 
 Graduate from Code Institute building this site to practice and grow my skills. The site is fictional.
